@@ -1,0 +1,6 @@
+
+
+#iniciar o app#
+
+streamlit run app.py
+
